@@ -8,8 +8,6 @@
 [![Github All Releases](https://img.shields.io/github/downloads/zj-zhang/AMBER/total.svg?label=Download)](https://github.com/zj-zhang/AMBER/releases)
 -->
 
-![logo](docs/source/_static/img/amber-logo.png)
-
 ---
 
 **Automated Modeling for Biological Evidence-based Research**
